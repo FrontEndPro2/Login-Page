@@ -1,0 +1,20 @@
+body{
+    background-image: url('Images/poppies-gca1aa4564_1920.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    font-size: 1vw;
+}
+.container{
+    width: 30%;
+margin-top: 10vw;
+}
+.btn{
+    background-color: rgb(235, 58, 58);
+    border: none;
+    width: 15vw;
+}
+.btn:hover{
+    background-color: rgb(217, 40, 40);
+}
